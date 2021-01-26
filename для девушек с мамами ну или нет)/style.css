@@ -1,0 +1,23 @@
+.yes {
+    border: 2px lightpink ridge;
+    width: 50%;
+    height: 50%;
+    outline: none;
+    font-size: 17px ;
+}
+.no {
+    border: 2px black solid;
+    width: 50%;
+    height: 50%;
+    outline: none;
+    font-size: 17px ;
+
+}
+.red {
+    width: 30%;
+    margin:0 auto;
+
+}
+.nodiv {
+    background-color:red;
+}
